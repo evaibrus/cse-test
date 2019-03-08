@@ -17,4 +17,3 @@ filter.lfs.required=true
 credential.helper=manager
 core.editor=nano.exe
 user.email=eva.ibrus@hotmail.com
-user.name=Eva Ibrus
